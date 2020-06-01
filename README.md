@@ -1,3 +1,3 @@
 # Racket exercises
 
-Based on https://github.com/exercism/racket
+My solutions to https://github.com/exercism/racket
